@@ -10,10 +10,10 @@ This project utilizes **Mask R-CNN** for **pose estimation** and **instance segm
 - **Live Video Processing** – Apply Mask R-CNN to real-time video streams.  
 
 ### **🎥 Instance Segmentation in Action**
-![Instance Segmentation Output](https://github.com/user-attachments/assets/4e5bbf3f-315d-465d-96c8-faf723309820)
+![Instance Segmentation Output](https://github.com/user-attachments/assets/4392353a-26a3-4db2-8b45-b566f7e6adcb)
 
 ### **📌 Pose Estimation Output**
-![Pose Estimation Example](https://github.com/user-attachments/assets/c4779dd9-06d9-401e-8fc1-7ca87e170a6d)
+![Pose Estimation Example](https://github.com/user-attachments/assets/9302e0a5-a927-417a-8413-3937ac59c73d)
 
 ---
 
