@@ -1,4 +1,4 @@
-### ** 🎭 Mask R-CNN – Real-Time Pose Estimation & Instance Segmentation**  
+###  🎭 Mask R-CNN – Real-Time Pose Estimation & Instance Segmentation
 
 ## 📌 **About the Project**  
 This project utilizes **Mask R-CNN** for **pose estimation** and **instance segmentation**, enabling real-time object detection and mask generation. It helps in recognizing multiple objects within a video or image while highlighting their distinct regions.  
