@@ -1,0 +1,5 @@
+tensorflow==2.5.0
+pixellib
+opencv-python
+numpy
+matplotlib
